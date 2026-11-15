@@ -1,12 +1,17 @@
-# Secrets: never commit your real settings
+
+# Environment variables and secrets
 .env
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 .pytest_cache/
 
-# Local data
-data/
-*.db
+# Local datasets
+data/raw/
+data/processed/
+
+# Model checkpoints: keep only the final trained model
+checkpoints/*
+!checkpoints/adventure_gpt_bpe_v4_best.pt
