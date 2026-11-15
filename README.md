@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/4ka3wsjgxe/badge.svg)](https://msrit.ask.thili.ai/b/4ka3wsjgxe)
 # Adventure Story Weaver
 
 [![Built with askThili](https://ask.thili.ai/api/v1/public/projects/jdzxfjrys2/badge.svg)](https://ask.thili.ai/b/jdzxfjrys2)
